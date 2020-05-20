@@ -1,0 +1,29 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+form{
+    border: 2px solid black;
+    margin-top: 10%;
+    padding: 2%;
+    width: 18%;
+
+}
+.input_text{
+    border: none;
+    border-bottom: solid 1px black;
+    font-size: 21PX;
+    margin-bottom: 2%;
+}
+.input_text:hover {
+    border: none;
+    border-bottom: solid 2px black;
+    font-size: 20PX;
+}
+#enviar{
+    font-size: 20px;
+    padding: 2%;
+    background-color: black;
+    border: none;
+    color: white;
+}
